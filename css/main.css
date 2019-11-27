@@ -4,3 +4,14 @@
 
 @tailwind utilities;
 
+#bg {
+  background-image: url('https://res.cloudinary.com/dey128wj1/image/upload/c_crop,f_auto/v1574839928/AtyPeakSKI/P1030773.jpg');
+  height: 100vh;
+  width: auto;
+  background-size: cover;
+  background-position: center;
+  /* position: absolute;
+  top: 0;
+  right: 0;
+  content: ' '; */
+}
